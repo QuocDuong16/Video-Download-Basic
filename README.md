@@ -7,13 +7,13 @@
 
 ### Step 1: Download the setup file from Github
 
-Go to the project's Github page at [https://github.com/QuocDuong16/Video-Download-Basic/releases/tag/Install](https://github.com/QuocDuong16/Video-Download-Basic/releases/tag/Install). Download the latest version of the vdb.zip installation file.
+Go to the project's Github page at [https://github.com/QuocDuong16/Video-Download-Basic/releases/tag/Install](https://github.com/QuocDuong16/Video-Download-Basic/releases/tag/Install). Download the latest version of the vdbsetup.zip installation file.
 
-![image](https://user-images.githubusercontent.com/88141204/232313603-6ca2449c-1d84-4e0d-b8d2-b7d8a5015f39.png)
+![image](https://user-images.githubusercontent.com/88141204/232314875-f709ccb5-1312-48e8-a754-1db950832fb8.png)
 
 ### **Step 2: Install Video Download Basic**
 
-Run the vdb.exe file and follow the steps in the installation wizard. After installation is complete, Video Download Basic will be installed on your computer.
+Run the file vdbsetup.exe after extracting and following the steps in the installer. After the installation is complete, Video Download Basic will be installed on your computer.
 
 ### **Step 3: Use Video Download Basic**
 
