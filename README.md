@@ -29,7 +29,7 @@ Firstly, you need to download the source code of Video Download Basic from Githu
 
 Download the latest version of the VideoDownloadBasic.zip file. Proceed to download and extract it.
 
-![image](https://user-images.githubusercontent.com/88141204/232289564-a996b8a2-e8e6-46a2-a93e-08c1b6e0c890.png)
+![image](https://user-images.githubusercontent.com/88141204/232314116-8e67ea59-4dd8-4632-8d22-0fdd26f95d5b.png)
 
 ### **Step 2: Install Python**
 
