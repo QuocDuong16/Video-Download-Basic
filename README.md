@@ -7,7 +7,7 @@
 
 ### Step 1: Download the setup file from Github
 
-Go to the project's Github page at [https://github.com/QuocDuong16/Video-Download-Basic/releases](https://github.com/QuocDuong16/Video-Download-Basic/releases). Find the "Releases" section and download the latest version of the vdb.exe installation file.
+Go to the project's Github page at [https://github.com/QuocDuong16/Video-Download-Basic/releases](https://github.com/QuocDuong16/Video-Download-Basic/releases). Download the latest version of the vdb.zip installation file.
 
 ![image](https://user-images.githubusercontent.com/88141204/232305087-0b6a1b54-efc6-4a15-b4f6-746e730073ad.png)
 
@@ -27,7 +27,7 @@ We will guide you to install Video Download Basic from the source code on the Wi
 
 Firstly, you need to download the source code of Video Download Basic from Github. You can access the project's Github page here: **[https://github.com/QuocDuong16/Video-Download-Basic/releases](https://github.com/QuocDuong16/Video-Download-Basic/releases)**
 
-Go to the "Releases" section and download the latest version of the VideoDownloadBasic.zip file. Proceed to download and extract it.
+Download the latest version of the VideoDownloadBasic.zip file. Proceed to download and extract it.
 
 ![image](https://user-images.githubusercontent.com/88141204/232289564-a996b8a2-e8e6-46a2-a93e-08c1b6e0c890.png)
 
