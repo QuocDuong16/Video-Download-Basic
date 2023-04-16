@@ -7,7 +7,9 @@
 
 ### Step 1: Download the setup file from Github
 
-Go to the project's Github page at [https://github.com/QuocDuong16/Video-Download-Basic](https://github.com/QuocDuong16/Video-Download-Basic). Find the "Releases" section and download the latest version of the vdb.exe installation file.
+Go to the project's Github page at [https://github.com/QuocDuong16/Video-Download-Basic/releases](https://github.com/QuocDuong16/Video-Download-Basic/releases). Find the "Releases" section and download the latest version of the vdb.exe installation file.
+
+![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/8e64262f-19de-467e-a0ad-a43525a961c8/Untitled.png)
 
 ### **Step 2: Install Video Download Basic**
 
@@ -23,9 +25,11 @@ We will guide you to install Video Download Basic from the source code on the Wi
 
 ### **Step 1: Download the source code from Github**
 
-First, you need to download the source code of Video Download Basic from Github. You can access the project's Github page here: [https://github.com/QuocDuong16/Video-Download-Basic](https://github.com/QuocDuong16/Video-Download-Basic)
+Firstly, you need to download the source code of Video Download Basic from Github. You can access the project's Github page here: **[https://github.com/QuocDuong16/Video-Download-Basic/releases](https://github.com/QuocDuong16/Video-Download-Basic/releases)**
 
-Then, you can choose the "Code" button and download the source code as a ZIP file or clone the repository using Git.
+Go to the "Releases" section and download the latest version of the VideoDownloadBasic.zip file. Proceed to download and extract it.
+
+![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/249e9415-c89b-4de2-b15b-273ac2e665c6/Untitled.png)
 
 ### **Step 2: Install Python**
 
