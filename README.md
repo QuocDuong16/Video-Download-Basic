@@ -9,7 +9,7 @@
 
 Go to the project's Github page at [https://github.com/QuocDuong16/Video-Download-Basic/releases/tag/Install](https://github.com/QuocDuong16/Video-Download-Basic/releases/tag/Install). Download the latest version of the vdbsetup.zip installation file.
 
-![image](https://user-images.githubusercontent.com/88141204/232314875-f709ccb5-1312-48e8-a754-1db950832fb8.png)
+![image](https://user-images.githubusercontent.com/88141204/232398676-9cc004dd-87e9-4495-9145-e9a0d986c6d9.png)
 
 ### **Step 2: Install Video Download Basic**
 
