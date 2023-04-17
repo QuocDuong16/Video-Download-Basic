@@ -10,9 +10,11 @@
 Access the project's Github page at: [https://github.com/QuocDuong16/Video-Download-Basic/releases/tag/Install](https://github.com/QuocDuong16/Video-Download-Basic/releases/tag/Install)
 
 - Windows
+
 Download the installation file vdbsetup_Windows.zip.
 
 - Linux
+
 Download the installation file vdbinstaller_Linux.zip.
 
 Reference image:
@@ -22,9 +24,11 @@ Reference image:
 ### **Step 2: Install Video Download Basic**
 
 - Windows
+
 Run the vdbsetup.exe file after extracting it and follow the steps in the installation wizard. After the installation is complete, Video Download Basic will be installed on your computer.
 
 - Linux
+
 Extract and run the vdb_installer.run file using the terminal. Open the terminal and navigate to the directory containing the vdb_installer.run file, then enter the following command to start the installation process:
 
 ```powershell
@@ -36,9 +40,11 @@ After running the command, a VideoDownloadBasic folder will be created in the sa
 ### **Step 3: Use Video Download Basic**
 
 - Windows
+
 After the installation is complete, you can start Video Download Basic by searching for it in the Start menu.
 
 - Linux
+
 After the installation is complete, you can use the following command to start the application (note that you need to navigate to the VideoDownloadBasic directory in the terminal):
 
 ```powershell
@@ -74,6 +80,7 @@ pip install -r requirements.txt
 The above command will install all the necessary libraries to run the Video Download Basic application.
 
 - Linux
+
 If pip is not installed, use the following command to install pip:
 
 ```powershell
