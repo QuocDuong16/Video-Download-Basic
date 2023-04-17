@@ -7,31 +7,55 @@
 
 ### Step 1: Download the setup file from Github
 
-Go to the project's Github page at [https://github.com/QuocDuong16/Video-Download-Basic/releases/tag/Install](https://github.com/QuocDuong16/Video-Download-Basic/releases/tag/Install). Download the latest version of the vdbsetup.zip installation file.
+Access the project's Github page at: [https://github.com/QuocDuong16/Video-Download-Basic/releases/tag/Install](https://github.com/QuocDuong16/Video-Download-Basic/releases/tag/Install)
+
+- Windows
+Download the installation file vdbsetup_Windows.zip.
+
+- Linux
+Download the installation file vdbinstaller_Linux.zip.
+
+Reference image:
 
 ![image](https://user-images.githubusercontent.com/88141204/232398676-9cc004dd-87e9-4495-9145-e9a0d986c6d9.png)
 
 ### **Step 2: Install Video Download Basic**
 
-Run the file vdbsetup.exe after extracting and following the steps in the installer. After the installation is complete, Video Download Basic will be installed on your computer.
+- Windows
+Run the vdbsetup.exe file after extracting it and follow the steps in the installation wizard. After the installation is complete, Video Download Basic will be installed on your computer.
+
+- Linux
+Extract and run the vdb_installer.run file using the terminal. Open the terminal and navigate to the directory containing the vdb_installer.run file, then enter the following command to start the installation process:
+
+```powershell
+./vdb_installer.run --noexec --target VideoDownloadBasic
+```
+
+After running the command, a VideoDownloadBasic folder will be created in the same directory as the vdb_installer.run file.
 
 ### **Step 3: Use Video Download Basic**
 
-After installation is complete, you can launch Video Download Basic by searching for the application in the Start menu or double-clicking the icon on the Desktop.
+- Windows
+After the installation is complete, you can start Video Download Basic by searching for it in the Start menu.
 
-We will guide you to install Video Download Basic from the source code on the Windows operating system.
+- Linux
+After the installation is complete, you can use the following command to start the application (note that you need to navigate to the VideoDownloadBasic directory in the terminal):
+
+```powershell
+./vdb
+```
 
 ## **Guide to installing Video Download Basic from the source code**
 
 ### **Step 1: Download the source code from Github**
 
-Firstly, you need to download the source code of Video Download Basic from Github. You can access the project's Github page here: **[https://github.com/QuocDuong16/Video-Download-Basic/releases/tag/SourceCode](https://github.com/QuocDuong16/Video-Download-Basic/releases/tag/SourceCode)**
+First, you need to download the source code of Video Download Basic from Github. You can access the project's Github page at: [https://github.com/QuocDuong16/Video-Download-Basic/releases/tag/SourceCode](https://github.com/QuocDuong16/Video-Download-Basic/releases/tag/SourceCode)
 
-Download the latest version of the VideoDownloadBasic.zip file. Proceed to download and extract it.
+Download the latest version of the VideoDownloadBasic.zip file that corresponds to your operating system (VideoDownloadBasic_Windows.zip, VideoDownloadBasic_Linux.zip). Proceed to download and extract it.
 
 ![image](https://user-images.githubusercontent.com/88141204/232400829-a2295034-10ba-43f4-a72d-8b5497d4a438.png)
 
-### **Step 2: Install Python**
+### **Step 2: Install Python (if you don't have Python already installed)**
 
 Video Download Basic is written in Python, so you need to install Python on your computer if you don't already have it. You can download the latest version of Python from the official Python website at [https://www.python.org/downloads/](https://www.python.org/downloads/).
 
@@ -39,7 +63,9 @@ After downloading, install Python using the downloaded .exe file.
 
 ### **Step 3: Install necessary libraries**
 
-You can install the necessary libraries by using the requirements.txt file that comes with the Video Download Basic source code. Open Command Prompt or Terminal and navigate to the folder containing the application's source code, then run the following command to install the necessary libraries:
+You can install the necessary libraries using the requirements.txt file that comes with the Video Download Basic source code. Open Command Prompt or Terminal and navigate to the directory that contains the application source code, then run the following command to install the necessary libraries:
+
+- Windows
 
 ```powershell
 pip install -r requirements.txt
@@ -47,9 +73,35 @@ pip install -r requirements.txt
 
 The above command will install all the necessary libraries to run the Video Download Basic application.
 
+- Linux
+If pip is not installed, use the following command to install pip:
+
+```powershell
+sudo apt-get update
+sudo apt-get install python3-pip
+```
+
+Next, run this command to install the libraries:
+
+```powershell
+pip install -r requirements.txt
+```
+
+Then use the following command to download tkinter:
+
+```powershell
+sudo apt-get install python3-tk
+```
+
+Finally, use this command to download ffmpeg:
+
+```powershell
+sudo apt-get install ffmpeg
+```
+
 ### **Step 4: Run the application**
 
-After installing Python and the necessary libraries, you can run the Video Download Basic application. Open Command Prompt or Terminal and navigate to the folder containing the application's source code.
+After installing Python and the necessary libraries, you can run the Video Download Basic application. Open Command Prompt or Terminal and navigate to the directory that contains the application's source code.
 
 Run the following command to start the application:
 
@@ -57,7 +109,13 @@ Run the following command to start the application:
 python main.py
 ```
 
-Then, the Video Download Basic application will launch and appear on the screen.
+Or
+
+```powershell
+python3 main.py
+```
+
+Then, the Video Download Basic application will start up and display on the screen.
 
 ## **Conclusion**
 
