@@ -29,10 +29,10 @@ Run the vdbsetup.exe file after extracting it and follow the steps in the instal
 
 - Linux
 
-Extract and run the vdb_installer.run file using the terminal. Open the terminal and navigate to the directory containing the vdb_installer.run file, then enter the following command to start the installation process:
+Extract and run the file vdb_installer.run using terminal. Open terminal and go to the directory containing the file vdb_installer.run then enter the following command to proceed with the installation (enter sudo password)
 
 ```powershell
-./vdb_installer.run --noexec --target VideoDownloadBasic
+./vdb_installer.run --noexec --target VideoDownloadBasic | sudo apt-get install ffmpeg
 ```
 
 After running the command, a VideoDownloadBasic folder will be created in the same directory as the vdb_installer.run file.
