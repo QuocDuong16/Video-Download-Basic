@@ -11,15 +11,16 @@ Access the project's Github page at: [https://github.com/QuocDuong16/Video-Downl
 
 - Windows
 
-Download the installation file vdbsetup_Windows.zip.
+Download the installation file vdbsetup_Windows-v1.1.zip.
 
 - Linux
 
-Download the installation file vdbinstaller_Linux.zip.
+Download the installation file vdbinstaller_Linux-v1.1.zip.
 
 Reference image:
 
-![image](https://user-images.githubusercontent.com/88141204/232398676-9cc004dd-87e9-4495-9145-e9a0d986c6d9.png)
+![image](https://user-images.githubusercontent.com/88141204/236804714-0230dfa0-66b8-4ca0-b0b7-2964905144d4.png)
+
 
 ### **Step 2: Install Video Download Basic**
 
@@ -57,9 +58,9 @@ After the installation is complete, you can use the following command to start t
 
 First, you need to download the source code of Video Download Basic from Github. You can access the project's Github page at: [https://github.com/QuocDuong16/Video-Download-Basic/releases/tag/SourceCode](https://github.com/QuocDuong16/Video-Download-Basic/releases/tag/SourceCode)
 
-Download the latest version of the VideoDownloadBasic.zip file that corresponds to your operating system (VideoDownloadBasic_Windows.zip, VideoDownloadBasic_Linux.zip). Proceed to download and extract it.
+Download the latest version of the VideoDownloadBasic.zip file that corresponds to your operating system (VideoDownloadBasic_Windows.zip-v1.1, VideoDownloadBasic_Linux-v1.1.zip). Proceed to download and extract it.
 
-![image](https://user-images.githubusercontent.com/88141204/232400829-a2295034-10ba-43f4-a72d-8b5497d4a438.png)
+![image](https://user-images.githubusercontent.com/88141204/236804776-f324110b-a9a3-4331-9f2f-125c1be7a962.png)
 
 ### **Step 2: Install Python (if you don't have Python already installed)**
 
