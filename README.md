@@ -19,7 +19,7 @@ Download the installation file vdbinstaller_Linux-v1.1.zip.
 
 Reference image:
 
-![image](https://user-images.githubusercontent.com/88141204/236804714-0230dfa0-66b8-4ca0-b0b7-2964905144d4.png)
+![image](https://user-images.githubusercontent.com/88141204/236811454-9ffb2bf8-b80f-4316-a0c1-a7d9ea939082.png)
 
 
 ### **Step 2: Install Video Download Basic**
@@ -56,7 +56,7 @@ First, you need to download the source code of Video Download Basic from Github.
 
 Download the latest version of the VideoDownloadBasic.zip file that corresponds to your operating system (VideoDownloadBasic_Windows.zip-v1.1, VideoDownloadBasic_Linux-v1.1.zip). Proceed to download and extract it.
 
-![image](https://user-images.githubusercontent.com/88141204/236804776-f324110b-a9a3-4331-9f2f-125c1be7a962.png)
+![image](https://user-images.githubusercontent.com/88141204/236811619-b3742151-06f3-40d4-9554-656a4eb95d93.png)
 
 ### **Step 2: Install Python (if you don't have Python already installed)**
 
